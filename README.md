@@ -1,1 +1,1 @@
-# schoolwebsitefordiyanuniversalschool
+# schoolwebsite
